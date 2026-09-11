@@ -1,1 +1,1 @@
-this is a content of h.txt
+ content of h.txt
